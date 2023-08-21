@@ -19,7 +19,7 @@
       "fullWidth": true
     }
   },
-  
+
   "flex-layout.row#3-desktop": {
     "props": {
       "blockClass": "menu-link",
@@ -68,7 +68,7 @@
     "props": {
       "verticalAlign": "middle"
     },
-    "children": ["logo#desktop"]
+    "children": ["logo#desktop", "countdown","countdown.title"]
   },
   "flex-layout.col#category-menu": {
     "props": {
